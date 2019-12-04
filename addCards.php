@@ -1,7 +1,12 @@
 <?php include('heading.php');?>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 header-login">
+        <div class="col-12 header-login">            
+            <div class="col-12 text-left">
+                <a href="navigation.php" class="navigation-btn" id="navigation-btn">
+                    <img src="images/hamburg.png" alt="Navigation Menu">
+                </a>
+            </div>   
             <div class="row h-100 m-0 p-0">                
                 <h1 class="my-auto">Add Cards</h1>
             </div>
